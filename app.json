@@ -1,0 +1,35 @@
+{
+    "expo": {
+        "name": "Live Crypto Tracker",
+        "slug": "liveCryptoTracker",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon1.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/splash1.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#0c3c4c"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "package": "com.maduraprasad.livecryptotracker",
+            "versionCode": 1,
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/adaptive-icon1.png",
+                "backgroundColor": "#0c3c4c"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
+}
