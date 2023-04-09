@@ -1,17 +1,7 @@
-# Live-Crypto-Tracker
-### How to Run : 
-- Download or clone this repository.
-- Open Visual Studio and Import Project.
-- Open Visual Studio Terminal enter "npm install".
-- After install npm enter Terminal "expo start".
-- After Run the Program.
 
 
 
-[Live Demo][website]
 
-
-[website]: https://play.google.com/store/apps/details?id=com.maduraprasad.livecryptotracker&pli=1
 
 
 
@@ -78,6 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
+
+
+[Live Demo][website]
+
+
+[website]: https://play.google.com/store/apps/details?id=com.maduraprasad.livecryptotracker&pli=1
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
