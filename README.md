@@ -70,11 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 
-[Live Demo][website]
-
-
-[website]: https://play.google.com/store/apps/details?id=com.maduraprasad.livecryptotracker&pli=1
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
@@ -84,3 +79,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+[Live Demo][website]
+
+
+[website]: https://play.google.com/store/apps/details?id=com.maduraprasad.livecryptotracker&pli=1
